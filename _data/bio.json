@@ -1,0 +1,88 @@
+{
+  "basics": {
+    "name": "Zhuocheng Gan",
+    "label": "Student",
+    "picture": "https://github.com/zhuochenggan.png",
+    "email": "zgan@hawaii.edu",
+    "phone": "808-200-6706",
+    "website": "https://zhuochenggan.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "location": { "address": "", "postalCode": "96789", "city": "Mililani", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "zhuochenggan", "url": "http://github.com/zhuochenggan" },
+      { "network": "linkedin", "username": "Zhuocheng Gan", "url": "http://www.linkedin.com/in/zhuocheng-gan-481a04274" }
+    ]
+  },
+  "interests": [
+    { "name": "Software Engineering" },
+    { "name": "Artificial Intelligence" }
+  ],
+  "skills": [
+    {
+      "name": "Languages",
+      "keywords": [ "Java", "Javascript", "C", "C++", "SQL","Assembly" ]
+    },
+    {
+      "name": "Frameworks/Libraries",
+      "keywords": [ "HTML", "CSS", "React", "Boostrap", "Node.Js", "MongoDB" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "Github, DigitalOcean, Domain, Window, Ubuntu, Linux" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2024)",
+      "studyType": "B.S.",
+      "startDate": "2022-08-18",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "UH Manoa",
+      "position": "ICS 211 Learning Assistant",
+      "website": "https://manoa.hawaii.edu/learning-assistant-program/",
+      "startDate": "2023-07-17",
+      "endDate": "2023-12-14",
+      "summary": "",
+      "highlights": [
+        "Assiting With Student's Queries In-Class For Two Section Of ICS 211",
+        "Hosting Office Hours For All Section Of ICS 211 Via Learning Emporium"
+      ]
+    },
+    {
+      "company": "UH Manoa",
+      "position": "ICS 211 Assistant TA",
+      "website": "",
+      "startDate": "2023-01-10",
+      "endDate": "2023-05-04",
+      "summary": "",
+      "highlights": [
+        "Assisted With Queries From Student Via In-Class And Office Hours",
+        "Taught Class Independently For One Week including Lesson Planning"
+      ]
+    },
+    {
+      "company": "Self Employed",
+      "position": "Software Sales",
+      "website": "",
+      "startDate": "2020-01-01",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Building A Diverse Portfolio Of Software Base On Customer's Needs",
+        "Handling Full Process Of The Sales Including Listing, Payment And Delievery"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
